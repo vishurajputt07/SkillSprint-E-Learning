@@ -5,7 +5,7 @@ import Hero from './components/Hero';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HtmlCourse from './components/HtmlCourse';
 import UserInfo from './components/UserInfo';
-import CssCourse from './components/cssCourse';
+import CssCourse from './components/CssCourse.jsx';
 import JavaScriptCourse from './components/JavaScriptCourse';
 import Footer from './components/Footer';
 import About from './components/About';
